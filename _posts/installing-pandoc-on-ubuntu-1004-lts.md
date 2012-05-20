@@ -12,6 +12,8 @@ layout: post
 
 ---
 
+These instructions are from [Francesco Rodriguez](http://www.frodsan.com/2011/12/27/installing-haskell-ubuntu.html) and are repeated here for completeness.
+
 First install dependencies:
 
     $ sudo apt-get install libgmp3-dev freeglut3 freeglut3-dev

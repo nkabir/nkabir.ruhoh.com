@@ -4,7 +4,7 @@ RuhohSpec: '0.2'
 theme : ruhoh
 permalink: /:categories/:title
 
-production_url : http://sample.com
+production_url : http://praxis.rocketknowledge.com
 
 comments :
   provider : disqus
