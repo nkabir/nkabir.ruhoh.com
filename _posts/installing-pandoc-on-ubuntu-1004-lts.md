@@ -9,7 +9,6 @@ tags:
     - lucid
 
 layout: post
-type: draft
 
 ---
 
