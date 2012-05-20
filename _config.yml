@@ -1,7 +1,7 @@
 ---
 RuhohSpec: '0.2'
 
-theme : ruhoh 
+theme : ruhoh
 permalink: /:categories/:title
 
 production_url : http://sample.com
