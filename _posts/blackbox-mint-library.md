@@ -1,7 +1,7 @@
 ---
 
 title: Blackbox Mint Library
-date: '2012-05-26'
+date: '2012-05-27'
 description: The python library for the Blackbox stack.
 categories: sysadmin
 tags: 
