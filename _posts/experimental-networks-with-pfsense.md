@@ -38,7 +38,11 @@ Turn off VirtualBox's internal DHCP server (via Preferences).
 3. Assign one interface `le0` to WAN and the second, `le1`, to LAN.
 4. Point your browser (from a machine on the internal network) to https://{pfsenseipaddress}
 
+The default username is `admin` and default password is `pfsense`.
+
 You may want to change the subnet for your experimental network. I use `172.16.50.1` to avoid colliding with `192.168.x.x` and `10.x.x.x` networks that are more common.
+
+You can accomplish this via the command-line interface on pfsense (selection `2 - Set interface(s) IP address`) or via the web interface.
 
 <img src="{{paths.media}}/pfsense-172.png"/>
 
@@ -79,7 +83,9 @@ _Order matters._ Please see the [following post](/sysadmin/machine-names).
 
 ### Port Forwarding
 
-You may want to access the machines on your experimental network via SSH. To enable this, you'll need to turn on port forwarding on pfSense. But before you do, make sure you uncheck _Block private networks_ on your WAN interface settings.
+You may want to access the machines on your experimental network via SSH. To enable this, you'll need to turn on port forwarding on pfSense. But before you do, make sure you uncheck _Block private networks_ and _Block bogon networks_ on your WAN interface settings. 
+
+_NOTE: Only do this on your desktop configuration&mdash;never in production._
 
 <img src="{{paths.media}}/pfsense-private-networks.png"/>
 
