@@ -92,3 +92,5 @@ _NOTE: Only do this on your desktop configuration&mdash;never in production._
 Then go to `Firewall->NAT` and create a new port forwarding rule (in this case, forward WAN port `2222` to `22` on an internal host).
 
 <img src="{{paths.media}}/pfsense-port-forward.png"/>
+
+One last piece of advice&mdash;always keep a root shell logged in when experimenting with authentication and networking.
