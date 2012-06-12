@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Praxis
+tagline: For the things I'm doing
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Norman Kabir
+  email : nkabir@gmail.com
+  github : nkabir
+  twitter : nkabir
 
 navigation :
   - archive.html
