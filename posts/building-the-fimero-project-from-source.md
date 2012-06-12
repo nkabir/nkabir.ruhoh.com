@@ -7,8 +7,6 @@ tags:
     - java
     - fimero
 
-type: draft
-
 ---
 
 ## Maven Configuration
