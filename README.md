@@ -1,5 +1,7 @@
 A default blog scaffold for **ruhoh** compatible static blog parsers.
 
+**This version is for [ruhohSpec v1.0](http://ruhoh.com/universal-blog-api/) and is only compatible with ruhoh gem 1.0.x.x**
+
 See <http://ruhoh.com> for more information.
 
 ## Usage and Documentation
@@ -9,7 +11,7 @@ See <http://ruhoh.com/usage> for full usage and documentation.
 Currently the only parser is available in ruby as a ruby gem:
 
 ````bash
-$ gem install ruhoh
+$ gem install ruhoh --version '1.0.0.alpha'
 $ ruhoh help
 ````
 
