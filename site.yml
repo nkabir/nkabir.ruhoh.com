@@ -1,10 +1,11 @@
-title : Praxis
-tagline: For the things I'm doing
+title : Fimero
+tagline: Open Source Software
 author :
   name : Norman Kabir
   email : nkabir@gmail.com
   github : nkabir
   twitter : nkabir
+  feedburner : feedname
 
 navigation :
   - archive.html

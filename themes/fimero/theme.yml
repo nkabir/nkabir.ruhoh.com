@@ -1,7 +1,7 @@
 {
   "stylesheets" : {
     "default" : [
-      "bootstrap.min.css",
+      "bootstrap.css",
       "style.css"
     ],
    
@@ -17,7 +17,7 @@
   },
   
   "manifest" : {
-    "author" : "Jacob Thornton and Mark Otto",
-    "website" : "http://twitter.github.com/bootstrap"
+    "author" : "Norman Kabir",
+    "website" : "http://fimero.ruhoh.com"
   }
 }
