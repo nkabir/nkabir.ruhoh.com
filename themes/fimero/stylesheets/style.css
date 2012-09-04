@@ -29,13 +29,15 @@ h3 {
 code,
 pre {
   padding: 0 3px 2px;
-  font-family: 'PT Mono', Monaco, Menlo, Consolas, monospace, "Courier New";
+  font-family: 'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;
   font-size: 12px;
   color: #333333;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
 }
+
+/* */
 
 .navbar {
   margin-bottom: 0;
