@@ -44,4 +44,20 @@ description: Demonstration of Bootstrap functionality
 
 <hr class="bs-docs-separator">
   
+  
+<h2 id="emphasis">Emphasis</h2>
+<p>Make use of HTML's default emphasis tags with lightweight styles.</p>
+
+<h3><code>&lt;small&gt;</code></h3>
+<p>For de-emphasizing inline or blocks of text, <small>use the small tag.</small></p>
+<div class="bs-docs-example">
+<p><small>This line of text is meant to be treated as fine print.</small></p>
+</div>
+
+<pre class="prettyprint">
+&lt;p&gt;
+  &lt;small&gt;This line of text is meant to be treated as fine print.&lt;/small&gt;
+&lt;/p&gt;
+</pre>
+  
 </section>
