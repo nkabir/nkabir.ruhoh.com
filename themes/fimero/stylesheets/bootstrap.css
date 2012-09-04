@@ -817,7 +817,7 @@ address {
 code,
 pre {
   padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: 'Droid Sans Mono', Monaco, Menlo, Consolas, monospace, "Courier New";
   font-size: 12px;
   color: #333333;
   -webkit-border-radius: 3px;
@@ -907,7 +907,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: ""Droid Sans"", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 label {
@@ -4050,7 +4050,7 @@ input[type="submit"].btn.btn-mini {
   height: auto;
 }
 
-.navbar .brand {
+.navbar .brand { 
   display: block;
   float: left;
   padding: 10px 20px 10px;
@@ -4059,6 +4059,7 @@ input[type="submit"].btn.btn-mini {
   font-weight: 200;
   color: #555555;
   text-shadow: 0 1px 0 #ffffff;
+  text-transform: lowercase;
 }
 
 .navbar .brand:hover {

@@ -2,17 +2,21 @@
   "stylesheets" : {
     "default" : [
       "bootstrap.css",
+      "bootstrap-responsive.css",
+      "docs.css",
       "style.css"
     ],
    
     "widgets" : {
-      "google_prettify" : "twitter-bootstrap.css"
+      "google_prettify" : "sunburst-custom.css"
     }
     
   },
 
   "javascripts" : {
     "default" : [
+      "jquery.js",
+      "bootstrap.js"
     ]
   },
   

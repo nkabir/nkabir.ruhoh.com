@@ -2,6 +2,41 @@
 html, body {
   background-color: #eee;
 }
+
+p {
+    font-family: 'Droid Serif', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.page-header h1 {
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    letter-spacing: -0.05em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.05em;	
+}
+
+h3 {
+	
+	color: #668;
+}
+
+code,
+pre {
+  padding: 0 3px 2px;
+  font-family: 'PT Mono', Monaco, Menlo, Consolas, monospace, "Courier New";
+  font-size: 12px;
+  color: #333333;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
 .navbar {
   margin-bottom: 0;
 }
