@@ -14,3 +14,7 @@ navigation :
   - pages.html
   - about.md
   
+samples:
+  - samples/typography.md
+  - samples/snippets.md
+    
