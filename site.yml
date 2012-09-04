@@ -16,5 +16,7 @@ navigation :
   
 samples:
   - samples/typography.md
+  - samples/code.md
+  - samples/tables.md
   - samples/snippets.md
     
