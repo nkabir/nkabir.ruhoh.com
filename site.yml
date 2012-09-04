@@ -19,5 +19,8 @@ samples:
   - samples/code.md
   - samples/tables.md
   - samples/forms.md
+  - samples/buttons.md
+  - samples/images.md
+  - samples/icons.md
   - samples/snippets.md
     
