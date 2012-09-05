@@ -1,6 +1,8 @@
 ---
 title: Image Samples
 description: Demonstrations of images
+categories: [ 'samples' ]
+
 ---
 
 <!-- Images ================================================== -->

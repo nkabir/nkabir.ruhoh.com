@@ -2,6 +2,7 @@
   "stylesheets" : {
     "default" : [
       "bootstrap.css",
+      "bootstrap-responsive.css",
       "docs.css",
       "style.css"
     ],

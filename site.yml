@@ -15,6 +15,11 @@ navigation :
   - about.md
   
 samples:
+  - samples/global.md
+  - samples/grids.md
+  - samples/fluid-grids.md
+  - samples/layouts.md
+  - samples/responsive.md
   - samples/typography.md
   - samples/code.md
   - samples/tables.md

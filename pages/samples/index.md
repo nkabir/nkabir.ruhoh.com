@@ -1,6 +1,7 @@
 ---
 title: Page Samples
 description: Capabilities of Publishing Platform
+categories: [ 'samples' ]
 
 ---
 

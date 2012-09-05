@@ -1,6 +1,8 @@
 ---
 title: Icon Samples
 description: Demonstration of icons
+categories: [ 'samples' ]
+
 ---
 
 <!-- Icons ================================================== -->
