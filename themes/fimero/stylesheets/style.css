@@ -26,6 +26,22 @@ h3 {
 	color: #668;
 }
 
+.span4 h2 {
+	
+	text-align: center;	
+}
+
+.span4 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.span12 h1 {
+	
+	font-size: 6em;
+}
+
 code,
 pre {
   padding: 0 3px 2px;
@@ -35,6 +51,11 @@ pre {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
+}
+
+header {
+	
+	width: 100%;
 }
 
 /* */
@@ -64,6 +85,7 @@ pre {
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
+
 
 /* Page header tweaks */
 .page-header {

@@ -1,5 +1,5 @@
 ---
-title: Page Samples
+title: Bootstrap Samples
 description: Capabilities of Publishing Platform
 categories: [ 'samples' ]
 
