@@ -1,7 +1,7 @@
 ---
 title: Fluid Grids Samples
 description: Demonstration of Fluid Grids
-categories: [ 'samples' ]
+categories: [ 'samples/scaffolding' ]
 
 ---
 

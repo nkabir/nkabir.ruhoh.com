@@ -1,7 +1,7 @@
 ---
 title: Grid Samples
 description: Demonstration of Grid Layout
-categories: [ 'samples' ]
+categories: [ 'samples/scaffolding' ]
 
 ---
 

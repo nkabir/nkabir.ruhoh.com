@@ -1,7 +1,7 @@
 ---
 title: Button Samples
 description: Demonstration of Buttons
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 

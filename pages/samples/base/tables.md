@@ -1,7 +1,7 @@
 ---
 title: Table Samples
 description: Demonstrations of Table Formatting
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 <section id="tables">

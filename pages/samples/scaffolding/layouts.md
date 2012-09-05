@@ -1,7 +1,7 @@
 ---
 title: Layout Samples
 description: Demonstration of Layouts
-categories: [ 'samples' ]
+categories: [ 'samples/scaffolding' ]
 
 ---
 

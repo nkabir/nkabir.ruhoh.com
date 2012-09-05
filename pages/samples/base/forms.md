@@ -1,7 +1,7 @@
 ---
 title: Form Samples
 description: Demonstrations of Form Formatting
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 

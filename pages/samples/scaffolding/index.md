@@ -1,12 +1,12 @@
 ---
 title: Bootstrap Samples
 description: Capabilities of Publishing Platform
-categories: [ 'samples' ]
+categories: [ 'samples/scaffolding' ]
 
 ---
 
 <ul>
-{{# site.samples.indexes?to_pages }}
+{{# site.samples.scaffolding?to_pages }}
 <li><a href="{{url}}">{{title}}</a></li>
-{{/ site.samples.indexes?to_pages }}
+{{/ site.samples.scaffolding?to_pages }}
 </ul>

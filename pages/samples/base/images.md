@@ -1,7 +1,7 @@
 ---
 title: Image Samples
 description: Demonstrations of images
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 

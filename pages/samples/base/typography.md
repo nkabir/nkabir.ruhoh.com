@@ -1,7 +1,7 @@
 ---
 title: Typography Samples
 description: Demonstrations of Fonts & Typography
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 

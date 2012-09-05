@@ -1,7 +1,7 @@
 ---
 title: Code Samples
 description: Demonstrations of Integrating Formatted Code
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 <section id="code">

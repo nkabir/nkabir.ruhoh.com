@@ -1,7 +1,7 @@
 ---
 title: Code Snippets
 description: Snippets from Gists and Bitbucket
-categories: [ 'samples' ]
+categories: [ 'samples/base' ]
 
 ---
 

@@ -15,17 +15,21 @@ navigation :
   - about.md
   
 samples:
-  - samples/global.md
-  - samples/grids.md
-  - samples/fluid-grids.md
-  - samples/layouts.md
-  - samples/responsive.md
-  - samples/typography.md
-  - samples/code.md
-  - samples/tables.md
-  - samples/forms.md
-  - samples/buttons.md
-  - samples/images.md
-  - samples/icons.md
-  - samples/snippets.md
-    
+  indexes:
+    - samples/scaffolding/index.md
+    - samples/base/index.md
+  scaffolding:
+    - samples/scaffolding/globals.md
+    - samples/scaffolding/grids.md
+    - samples/scaffolding/fluid-grids.md
+    - samples/scaffolding/layouts.md
+    - samples/scaffolding/responsive-layouts.md
+  base:
+    - samples/base/typography.md
+    - samples/base/code.md
+    - samples/base/tables.md
+    - samples/base/forms.md
+    - samples/base/buttons.md
+    - samples/base/images.md
+    - samples/base/icons.md
+    - samples/base/snippets.md
