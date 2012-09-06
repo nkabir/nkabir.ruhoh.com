@@ -97,18 +97,13 @@ description: Modal Samples
 </pre>
 
   <hr class="bs-docs-separator">
-
-
   <h2>Usage</h2>
-
   <h3>Via data attributes</h3>
   <p>Activate a modal without writing JavaScript. Set <code>data-toggle="modal"</code> on a controller element, like a button, along with a <code>data-target="#foo"</code> or <code>href="#foo"</code> to target a specific modal to toggle.</p>
   <pre class="prettyprint linenums">&lt;button type="button" data-toggle="modal" data-target="#myModal"&gt;Launch modal&lt;/button&gt;</pre>
-
   <h3>Via JavaScript</h3>
   <p>Call a modal with id <code>myModal</code> with a single line of JavaScript:</p>
   <pre class="prettyprint linenums">$('#myModal').modal(options)</pre>
-
   <h3>Options</h3>
   <p>Options can be passed via data attributes or JavaScript. For data attributes, append the option name to <code>data-</code>, as in <code>data-backdrop=""</code>.</p>
   <table class="table table-bordered table-striped">

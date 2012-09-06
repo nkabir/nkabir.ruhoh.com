@@ -53,3 +53,7 @@ samples:
     - samples/javascript/overview.md
     - samples/javascript/transitions.md
     - samples/javascript/modal.md
+    - samples/javascript/dropdown.md
+    - samples/javascript/scrollspy.md
+    - samples/javascript/tabs.md
+    - samples/javascript/tooltips.md
