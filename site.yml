@@ -19,6 +19,7 @@ samples:
     - samples/scaffolding/index.md
     - samples/base/index.md
     - samples/components/index.md
+    - samples/javascript/index.md
   scaffolding:
     - samples/scaffolding/globals.md
     - samples/scaffolding/grids.md
@@ -48,3 +49,7 @@ samples:
     - samples/components/alerts.md
     - samples/components/progress-bars.md
     - samples/components/miscellaneous.md
+  javascript:
+    - samples/javascript/overview.md
+    - samples/javascript/transitions.md
+    - samples/javascript/modal.md
