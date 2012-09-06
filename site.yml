@@ -18,6 +18,7 @@ samples:
   indexes:
     - samples/scaffolding/index.md
     - samples/base/index.md
+    - samples/components/index.md
   scaffolding:
     - samples/scaffolding/globals.md
     - samples/scaffolding/grids.md
@@ -33,3 +34,17 @@ samples:
     - samples/base/images.md
     - samples/base/icons.md
     - samples/base/snippets.md
+  components:
+    - samples/components/dropdowns.md
+    - samples/components/button-groups.md
+    - samples/components/button-dropdowns.md
+    - samples/components/navs.md
+    - samples/components/navsbars.md
+    - samples/components/breadcrumbs.md
+    - samples/components/pagination.md
+    - samples/components/labels-badges.md
+    - samples/components/typography.md
+    - samples/components/thumbnails.md
+    - samples/components/alerts.md
+    - samples/components/progress-bars.md
+    - samples/components/miscellaneous.md
