@@ -57,3 +57,10 @@ samples:
     - samples/javascript/scrollspy.md
     - samples/javascript/tabs.md
     - samples/javascript/tooltips.md
+    - samples/javascript/popovers.md
+    - samples/javascript/alerts.md
+    - samples/javascript/buttons.md
+    - samples/javascript/collapse.md
+    - samples/javascript/carousel.md
+    - samples/javascript/typeahead.md
+    - samples/javascript/affix.md
