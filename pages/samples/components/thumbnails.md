@@ -1,5 +1,5 @@
 ---
-title: Thumbnails
+title: Thumbnails Samples
 description: Samples of Thumbnails
 ---
 

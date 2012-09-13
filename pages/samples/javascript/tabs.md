@@ -1,5 +1,5 @@
 ---
-title: Tabs
+title: Tabs Samples
 description: Tabs Samples
 
 ---

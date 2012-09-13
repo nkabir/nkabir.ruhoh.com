@@ -1,5 +1,5 @@
 ---
-title: Javascript 
+title: Javascript Samples
 description: Javascript Samples
 categories: [ 'samples/javascript' ]
 

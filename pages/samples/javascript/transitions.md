@@ -1,5 +1,5 @@
 ---
-title: Transitions
+title: Transitions Samples
 description: Samples of Transitions
 ---
 

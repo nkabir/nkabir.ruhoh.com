@@ -1,5 +1,5 @@
 ---
-title: Labels and Badges
+title: Labels and Badges Samples
 description: Samples of Labels and Badges
 ---
 

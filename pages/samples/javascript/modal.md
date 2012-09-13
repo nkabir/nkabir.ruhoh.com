@@ -1,5 +1,5 @@
 ---
-title: Modal
+title: Modal Samples
 description: Modal Samples
 
 ---

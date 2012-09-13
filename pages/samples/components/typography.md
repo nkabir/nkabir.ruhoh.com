@@ -1,6 +1,7 @@
 ---
-title:
-description:
+title: Typography Samples
+description: Typography Samples
+
 ---
 
 <section id="typography">

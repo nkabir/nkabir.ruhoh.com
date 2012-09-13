@@ -11,13 +11,13 @@ p {
 
 /* 'Source Sans Pro', */
 .page-header h1 {
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
     font-weight: 200;
     letter-spacing: -0.05em;
 }
 
 h1,h2,h3,h4,h5,h6,.btn {
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: -0.05em;
 }

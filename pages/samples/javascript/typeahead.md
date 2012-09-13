@@ -1,5 +1,5 @@
 ---
-title: Javascript Typeahead
+title: Javascript Typeahead Samples
 description: Sample Javascript Typeahead
 
 ---

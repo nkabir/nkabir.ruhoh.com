@@ -1,5 +1,5 @@
 ---
-title: Javascript Alerts
+title: Javascript Alerts Samples
 description: Alert Samples
 ---
 

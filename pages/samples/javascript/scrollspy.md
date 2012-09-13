@@ -1,5 +1,5 @@
 ---
-title: Scrollspy
+title: Scrollspy Samples
 description: Scrollspy Samples
 
 ---

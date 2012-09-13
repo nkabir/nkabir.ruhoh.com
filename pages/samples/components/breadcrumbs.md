@@ -1,5 +1,5 @@
 ---
-title: Breadcrumbs
+title: Breadcrumbs Samples
 description: Samples of Breadcrumbs
 ---
 

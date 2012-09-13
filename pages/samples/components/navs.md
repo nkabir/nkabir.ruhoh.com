@@ -1,5 +1,5 @@
 ---
-title: Navigation Elements
+title: Navigation Elements Samples
 description: Samples of Navigation Elements
 ---
 

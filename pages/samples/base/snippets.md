@@ -1,5 +1,5 @@
 ---
-title: Code Snippets
+title: Code Snippets Samples
 description: Snippets from Gists and Bitbucket
 categories: [ 'samples/base' ]
 

@@ -1,5 +1,5 @@
 ---
-title: Javascript Buttons
+title: Javascript Buttons Samples
 description: Samples Javascript Buttons
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pagination
+title: Pagination Samples
 description: Samples of Pagination
 ---
 

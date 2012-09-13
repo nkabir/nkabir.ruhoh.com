@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous
+title: Miscellaneous Samples
 description: Samples of Miscellaneous Features
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Tooltips
+title: Tooltips Samples
 description: Tooltips Samples
 
 ---

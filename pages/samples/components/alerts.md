@@ -1,5 +1,5 @@
 ---
-title: Alerts
+title: Alerts Samples
 description: Samples of Alerts
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Global Settings
+title: Global Settings Samples
 description: Examples of Global Settings
 categories: [ 'samples/scaffolding' ]
 

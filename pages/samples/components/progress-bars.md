@@ -1,5 +1,5 @@
 ---
-title: Progress Bars
+title: Progress Bars Samples
 description: Samples of Progress Bars
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Javascript Affix
+title: Javascript Affix Samples
 description: Sample Javascript Affix
 ---
 

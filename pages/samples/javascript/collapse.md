@@ -1,5 +1,5 @@
 ---
-title: Javascript Collapse
+title: Javascript Collapse Samples
 description: Sample Javascript Collapse
 ---
 

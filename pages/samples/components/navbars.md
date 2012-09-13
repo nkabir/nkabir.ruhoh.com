@@ -1,5 +1,5 @@
 ---
-title: Navbars
+title: Navbars Samples
 description: Samples of Navbars
 ---
 

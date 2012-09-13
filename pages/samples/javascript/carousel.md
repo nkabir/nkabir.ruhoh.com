@@ -1,5 +1,5 @@
 ---
-title: Javascript Carousel
+title: Javascript Carousel Samples
 description: Sample Javascript Carousel
 ---
 
