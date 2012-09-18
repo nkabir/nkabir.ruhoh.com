@@ -1,4 +1,4 @@
-layout : disqus
+layout : none
 disqus :
   short_name : jekyllbootstrap
 livefyre :
