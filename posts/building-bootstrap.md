@@ -8,7 +8,6 @@ tags:
   - javascript
   - html
 
-type: draft
 ---
 
 ## Design Scaffolding
@@ -27,6 +26,10 @@ You need to prepare your system to make Bootstrap.
 
 ### Fork Bootstrap
 
-If you haven't already, set up an account on [GitHub](http://www.github.com)
+If you haven't already, set up an account on [GitHub](http://www.github.com). Then be sure to set up an [SSH key to manage your commits](https://help.github.com/articles/generating-ssh-keys). Finally, [fork the Bootstrap repository](https://help.github.com/articles/fork-a-repo) and clone it locally into
 
-<script src="https://gist.github.com/2024366.js?file=dropbox.sh"></script>
+    $HOME/gitdev/com.github/$GITHUB_USER/bootstrap
+
+Navigate to your new `bootstrap` folder and run `make`. This generates a `doc` folder that contains an `assets` folder where you'll find all the css, javascript and image files you'll need.
+
+
