@@ -148,7 +148,8 @@ header {
   color:#FFF;
 }
 
-/* Suppress line numbering in gray gutter for code samples. */
+/* Suppress line numbering in gray gutter for code samples. 
 pre > ol.linenums {
     list-style: none;
-} 
+}
+*/ 
