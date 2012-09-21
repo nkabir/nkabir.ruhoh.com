@@ -12,5 +12,5 @@ posts:
 
 pages:
   permalink: 'pretty'
-  exclude: ['samples']
+  exclude: ['samples', 'xmedia']
       
