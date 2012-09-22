@@ -9,6 +9,7 @@ tags:
 
 ---
 
+<<<<<<< HEAD
 <img src="http://dl.dropbox.com/u/59707331/ruhoh/nkabir.ruhoh.com/media/toolbox-folder-256.png" />
 
 VirtualBox is a free virtualization package [available from Oracle](http://www.virtualbox.org). The makers of VirtualBox were [originally a company purchased by Sun Microsystems](http://en.wikipedia.org/wiki/VirtualBox). Some attractive features of this package include:
@@ -43,3 +44,6 @@ Finally, ensure that you do _not_ have a DHCP server running on your internal ne
 <div class="alert alert-success">
 That's it! You're read to start setting up virtual machines.
 </div>
+=======
+VirtualBox is a free, open source virtualization package [available from Oracle](http://www.virtualbox.org).
+>>>>>>> 6f105e5290674c4aee4f092cdecc1a430bc43f73
