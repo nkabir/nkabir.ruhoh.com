@@ -9,8 +9,6 @@ tags:
 
 ---
 
-<img style="float:right;" src="http://dl.dropbox.com/u/59707331/ruhoh/nkabir.ruhoh.com/media/toolbox-folder-128.png" />
-
 VirtualBox is a free virtualization package [available from Oracle](http://www.virtualbox.org). The makers of VirtualBox were [originally a company purchased by Sun Microsystems](http://en.wikipedia.org/wiki/VirtualBox). Some attractive features of this package include:
 
 * Open source
