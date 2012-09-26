@@ -174,3 +174,7 @@ body > .navbar .brand {
     color: black;
 }
 
+.marquee .btn {
+    width: 90%;
+}
+
