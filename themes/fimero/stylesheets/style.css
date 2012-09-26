@@ -178,3 +178,7 @@ body > .navbar .brand {
     width: 90%;
 }
 
+.marquee .row p {
+    height: 100px;
+}
+
