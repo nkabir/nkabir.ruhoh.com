@@ -1,0 +1,68 @@
+---
+title: Welcome
+description: Fimero Open Source Tools
+
+---
+<div class="container">
+<br/>
+<div class="hero-unit">
+<h1>Fimero</h1>
+<p>Open Source Tools</p>
+</div>
+
+<div class="marquee">
+<div class="row">
+    <div class="span4">
+    <h2>Repository</h2>
+    <p>Source code is managed with Mercurial, a free, open source distributed version control system written in Python and C.</p>
+    <a class="btn" href="http://www.google.com">Learn more...</a>
+    </div>
+    <div class="span4">
+    <h2>Code Review</h2>
+    <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </p>
+    </div>
+    <div class="span4">
+    <h2>Continuous Build</h2>
+    <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </p>
+    </div>
+</div>
+<div class="row">
+    <div class="span4">
+    <h2>Metrics</h2>
+    <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </p>
+    </div>
+    <div class="span4">
+    <h2>Code Search</h2>
+    <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </p>
+    </div>
+    <div class="span4">
+    <h2>Artifacts</h2>
+    <p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </p>
+    </div>
+</div>
+</div>
+
+<h2>Latest Posts</h2>
+
+{{# posts_latest }}
+<div class="post">
+  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+
+  {{{ summary }}}
+
+  <div class="more">
+    <a href="{{url}}" class="btn">read more..</a>
+  </div>
+</div>
+</div>
+{{/ posts_latest }}
