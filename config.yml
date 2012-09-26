@@ -8,7 +8,7 @@ production_url : http://praxis.fimero.org
 posts:
   permalink: /:categories/:title/
   summary_lines: 20
-  latest: 10
+  latest: 3
 
 pages:
   permalink: 'pretty'
