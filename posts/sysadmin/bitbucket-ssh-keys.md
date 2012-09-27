@@ -9,7 +9,7 @@ tags:
 
 ---
 
-The SSH interface to both Mercurial and GitHub is more reliable and scalable than their HTTP/HTTPS interfaces. Building on instructions from [BitBucket](https://confluence.atlassian.com/pages/viewpage.action?pageId=271943168#ConfiguringMultipleSSHIdentitiesforGitBash,MacOSX,&Linux-CreatemultipleidentitiesforMacOSX,GitBash,andLinux), we'll outline the setup process for Ubuntu 12.04 LTS.
+The SSH interface to both Mercurial and GitHub is more reliable and scalable than their [HTTP/HTTPS interfaces](https://groups.google.com/forum/?fromgroups=#!topic/bitbucket-users/ERXN5ccA2q8). Building on instructions from [BitBucket](https://confluence.atlassian.com/pages/viewpage.action?pageId=271943168#ConfiguringMultipleSSHIdentitiesforGitBash,MacOSX,&Linux-CreatemultipleidentitiesforMacOSX,GitBash,andLinux), we'll outline the setup process for Ubuntu 12.04 LTS.
 
 ## Prerequisites
 
