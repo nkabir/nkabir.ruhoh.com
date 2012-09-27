@@ -165,13 +165,10 @@ body > .navbar .brand {
     color: navy;
 }
 
-.marquee h3 {
-    color : navy;
-}
 
-.marquee p {
+.marquee .alert, p {
     font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
-    color: black;
+    color: #666;
 }
 
 .marquee .btn {
@@ -179,6 +176,6 @@ body > .navbar .brand {
 }
 
 .marquee .row p {
-    height: 100px;
+    height: 120px;
 }
 
