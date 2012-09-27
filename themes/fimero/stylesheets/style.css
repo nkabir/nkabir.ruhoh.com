@@ -169,7 +169,7 @@ body > .navbar .brand {
     margin-left:16%;
 }
 
-.marquee .alert, p {
+.marquee .alert, .marquee p {
     font-family: 'Open Sans', 'Source Sans Pro', sans-serif;
     color: #666;
 }
