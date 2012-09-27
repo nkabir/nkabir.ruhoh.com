@@ -57,6 +57,8 @@ Multiple SSH identities are managed via an SSH `config` file. The format is as f
         PreferredAuthentications publickey
         IdentityFile { path to secret key } # the secret part of your key pair
 
+An example of an actual file:
+<script src="https://gist.github.com/3794705.js?file=config"></script>
 To access BitBucket via Mercurial, use
 
     ssh://hg@alias/username/reponame
