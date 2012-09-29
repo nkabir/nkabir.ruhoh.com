@@ -56,7 +56,7 @@ These setting depend on your LDAP schema.
 
 ### Attribute Mappings
 
-* **Login Attribute**&mdas;_typically set to_ `uid`
+* **Login Attribute**&mdash;_typically set to_ `uid`
 * **First Name Attribute**&mdash;_typically set to_ `givenName`
 * **Last Name Attribute**&mdash;_typically set to surname_ `sn`
 * **E-mail Attribute**&mdash;_typically set to_ `mail`
