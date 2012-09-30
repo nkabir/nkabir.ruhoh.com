@@ -9,7 +9,7 @@ tags:
 
 ---
 
-We use [BitBucket](http://www.bitbucket.com) and [GitHub](http://www.github.com) to host our code. This works great for developers&mdash;but we also need to manage and deploy code from behind our firewall. [RhodeCode](http://rhodecode.org/) is an excellent package for managing Mercurial repositories. It also supports Git.
+We use [BitBucket](http://www.bitbucket.org) and [GitHub](http://www.github.com) to host our code. This works great for developers&mdash;but we also need to manage and deploy code from behind our firewall. [RhodeCode](http://rhodecode.org/) is an excellent package for managing Mercurial repositories. It also supports Git.
 
 ## Installation
 
