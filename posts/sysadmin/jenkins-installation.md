@@ -16,7 +16,7 @@ Jenkins is available as a BlackBox package `bbjenkins`. Install with
 
     $ sudo apt-get install bbjenkins
 
-Once installed, change the default port to `8888` from `8080`. This setting is configured in `/etc/default/jenkins`. Restart the service with
+Once installed, change the default port to `8888` from `8080`. `8080` is used by our Tomcat installations. This setting is configured in `/etc/default/jenkins`. Restart the service with
 
     $ sudo service jenkins restart
 
