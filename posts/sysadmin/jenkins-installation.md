@@ -76,6 +76,33 @@ Finally, select _Matrix-based security_ and set the appropriate permissions. See
 
 <img class="diagram" src="http://dl.dropbox.com/u/59707331/ruhoh/nkabir.ruhoh.com/posts/jenkins-installation/jenkins-security-001.png" />
 
+## PyFlakes
+
+Under the main section for _Compiler Warnings_, add the following:
+
+Name
+
+    PyFlakes
+
+Regular Expression
+
+    ^\s*(.*):(\d+):\s*(.*)$
+
+Mapping Script
+
+    import hudson.plugins.warnings.parser.Warning
+
+    String fileName = matcher.group(1)
+    String lineNumber = matcher.group(2)
+    String message = matcher.group(3)
+
+    return new Warning(fileName, Integer.parseInt(lineNumber), "Dynamic Parser", "-", message);
+
+Example Log Message
+
+    ./pygments/formatters/other.py:105: local variable 'lasttype' is assigned to but never used
+
 <div class="alert alert-success">
 Jenkins is ready to be configured for Python and Java projects!
 </div>
+
