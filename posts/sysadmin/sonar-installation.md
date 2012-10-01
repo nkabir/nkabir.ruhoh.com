@@ -37,6 +37,8 @@ Start sonar and tail the log file:
 
 Once the initial startup completes, connect to sonar at `http://{sonarhost}:9000`. The default _username_ and _password_ combination is `admin/admin`.
 
+<img class="diagram" src="http://dl.dropbox.com/u/59707331/ruhoh/nkabir.ruhoh.com/posts/sonar-installation/sonar-001.png" />
+
 ## Security
 
 Sonar has an LDAP plugin that integrates logins with a directory server. Go to the _Update Center_ under _Configuration_. Find _LDAP_ under _Available Plugins_ and install. Sonar will need to be stopped after the installation to update the configuration file `/opt/bbsonar/current/conf/sonar.properties`. Configuration instructions are [available](http://docs.codehaus.org/display/SONAR/LDAP+Plugin#LDAPPlugin-UsageInstallation). Add the following entries to the bottom of the file:
