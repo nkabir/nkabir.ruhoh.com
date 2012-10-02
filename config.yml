@@ -12,5 +12,5 @@ posts:
 
 pages:
   permalink: 'pretty'
-  exclude: ['samples', 'xmedia']
+  exclude: ['samples', 'xmedia', 'sysadmin', 'development', 'design']
       
