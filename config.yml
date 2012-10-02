@@ -9,8 +9,9 @@ posts:
   permalink: /:categories/:title/
   summary_lines: 20
   latest: 3
+  exclude: ['sysadmin','development','design'] 
 
 pages:
   permalink: 'pretty'
-  exclude: ['samples', 'xmedia', 'sysadmin', 'development', 'design']
+  exclude: ['samples', 'xmedia']
       
